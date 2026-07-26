@@ -68,4 +68,4 @@ This analysis measures publication counts as a stand-in for research contributio
 
 ## Author
 
-Dhanvi Doshi, NYU MSPP-GP 3101 Policy and Data Studio, Summer 2026
+Dhanvi Doshi, NYU MSPP, Summer 2026
